@@ -1,0 +1,57 @@
+---
+- summary: |
+    Смена языка на русский
+  status: fail
+
+- summary: |
+  Смена языка на английский
+  status: pass
+
+- summary: |
+    Поиск товаров по названию
+  status: pass
+
+- summary: |
+    Сортировка товаров по производителю
+  status: pass
+
+- summary: |
+    Сортировка товаров по параметру "В наличии"
+  status: pass
+
+- summary: |
+    Сортировка товаров по цене
+  status: fail
+
+- summary: |
+    Показатель количества товаров в корзине
+  status: pass
+
+- summary: |
+    Добавление товаров в корзину
+  status: pass
+
+- summary: |
+    Оформление заказа
+  status: pass
+
+
+- summary: |
+    Продолжение покупки
+  status: pass
+
+- summary: |
+    Отчистка корзины
+  status: pass
+
+- summary: |
+    Возвращение в магазин
+  status: pass
+
+- summary: |
+    Перемещение по страницам магазина вперёд
+  status: pass
+
+- summary: |
+    Перемещение по страницам магазина назад
+  status: pass
